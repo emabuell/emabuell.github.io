@@ -95,13 +95,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Top Reviwer
+  - title: Title
     url: https://neurips.cc/
     date: '2022-12-01'
     awarder: NeurIPS
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
+      Award summary
 
 ---
 
