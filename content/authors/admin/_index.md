@@ -107,3 +107,8 @@ awards:
       Awarded for groundbreaking work on efficient training of large models.
 
 ---
+
+Hi everyone!
+I'm an applied math PhD student at Gran Sasso Science Institute in L'Aquila, Italy. My main interest is in numerical methods for machine and deep learning.
+I’m currently working on Dynamical low-rank approaches to train neural networks.
+You can reach me at emanuele.zangrando@gssi.it
