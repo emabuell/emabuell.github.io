@@ -46,8 +46,7 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0009-3420-040X
 
 interests:
-  - Rimanian optimizazion
-  - 
+  - Riemannian optimization
 
 education:
   - area: PhD in Mathematics for Natural, Social and Life Sciences
@@ -61,12 +60,8 @@ education:
     icon: ""
     date_start: 2020-10-1
     date_end: 2022-09-21
-      GPA: 110/110
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      GPA: 110L/110
 
       Specialization: Mathematics of Data Science
   - area: BS Mathematics
