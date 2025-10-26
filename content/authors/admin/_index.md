@@ -49,7 +49,7 @@ interests:
   - Riemannian optimization
 
 education:
-  - area: PhD in Mathematics for Natural, Social and Life Sciences
+  - area: PhD candidate in Mathematics
     institution: Gran Sasso Science Institute
     icon: ""
     date_start: '2022-10-01'
