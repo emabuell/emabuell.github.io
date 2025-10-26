@@ -52,14 +52,13 @@ education:
   - area: PhD in Mathematics for Natural, Social and Life Sciences
     institution: Gran Sasso Science Institute
     icon: ""
-    date_start: 2022-10-1
-    date_end: current
+    date_start: '2022-10-01'
 
   - area: MS Data Science
     institution: University of Padova
     icon: ""
-    date_start: 2020-10-1
-    date_end: 2022-09-21
+    date_start: '2020-10-01'
+    date_end: '2022-09-21'
     summary: |
       GPA: 110L/110
 
@@ -67,8 +66,8 @@ education:
   - area: BS Mathematics
     institution: University of Padova
     icon: ""
-    date_start: 2016-10-1
-    date_end: 2020-10-1
+    date_start: '2016-10-01'
+    date_end: '2020-10-01'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
