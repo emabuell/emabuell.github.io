@@ -61,7 +61,7 @@ education:
     icon: ""
     date_start: 2020
     date_end: 2022
-      GPA: 110L/110
+      GPA: 110/110
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
