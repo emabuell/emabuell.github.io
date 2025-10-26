@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Emanuele Zangrandoo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
