@@ -53,14 +53,14 @@ education:
   - area: PhD in Mathematics for Natural, Social and Life Sciences
     institution: Gran Sasso Science Institute
     icon: ""
-    date_start: 2022
+    date_start: 2022-10-1
     date_end: current
 
   - area: MS Data Science
     institution: University of Padova
     icon: ""
-    date_start: 2020
-    date_end: 2022
+    date_start: 2020-10-1
+    date_end: 2022-09-21
       GPA: 110/110
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
@@ -72,8 +72,8 @@ education:
   - area: BS Mathematics
     institution: University of Padova
     icon: ""
-    date_start: 2016
-    date_end: 2020
+    date_start: 2016-10-1
+    date_end: 2020-10-1
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
