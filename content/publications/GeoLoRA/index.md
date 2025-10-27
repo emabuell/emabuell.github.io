@@ -62,8 +62,8 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: featured.pdf
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+image: 
+  caption: 'Image credit: [**Unsplash**](https://openreview.net/pdf?id=bsFWJ0Kget)'
   focal_point: ''
   preview_only: false
 
