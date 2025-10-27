@@ -27,8 +27,8 @@ publishDate: '2025-08-23T00:00:00Z'
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv 
-publication_short: ArXiv preprint.
+publication: In *ArXiv* 
+publication_short: In ArXiv preprint.
 
 abstract: Recent work in deep learning has shown strong empirical and theoretical evidence of an implicit low-rank bias: weight matrices in deep networks tend to be approximately low-rank. Moreover, removing relatively small singular values during training, or from available trained models, may significantly reduce model size while maintaining or even improving model performance. However, the majority of the theoretical investigations around low-rank bias in neural networks deal with oversimplified models, often not taking into account the impact of nonlinearity. In this work, we first of all quantify a link between the phenomenon of deep neural collapse and the emergence of low-rank weight matrices for a general class of feedforward networks with nonlinear activation. In addition, for the general class of nonlinear feedforward and residual networks, we prove the global optimality of deep neural collapsed configurations and the practical absence of a loss barrier between interpolating minima and globally optimal points, offering a possible explanation for its common occurrence. As a byproduct, our theory also allows us to forecast the final global structure of singular values before training. Our theoretical findings are supported by a range of experimental evaluations illustrating the phenomenon.
 # Summary. An optional shortened abstract.
