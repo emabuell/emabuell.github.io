@@ -35,9 +35,9 @@ abstract: Reducing parameter redundancies in neural network architectures is cru
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - Tensor representation 
   - Low-rank 
   - Riemannian gradient flow 
-  - Tucker tensor representation 
   - compression
 
 # Display this page in the Featured widget?

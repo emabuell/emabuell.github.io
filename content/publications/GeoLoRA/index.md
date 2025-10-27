@@ -35,9 +35,8 @@ abstract: Low-Rank Adaptation (LoRA) has become a widely used method for paramet
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Low-rank
+  - Low-rank fine-tuning
   - Riemannian gradient flow 
-  - Fine-tuning 
   - LoRA
 
 # Display this page in the Featured widget?
