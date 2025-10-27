@@ -1,5 +1,4 @@
 ---
----
 title: 'Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations'
 
 # Authors
