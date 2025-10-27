@@ -10,7 +10,7 @@ first_name: Emanuele
 last_name: Zangrando
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 
 # Is this the primary user of the site?
