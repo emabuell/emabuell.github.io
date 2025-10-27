@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emanuele Zangrandoo
+title: Emanuele Zangrando
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -44,12 +44,14 @@ profiles:
 
 interests:
   - Riemannian optimization
+  - Deep-learning
+  - 
 
 education:
   - area: PhD candidate in Mathematics
     institution: Gran Sasso Science Institute
     icon: ""
-    date_start: '2022-10-01'
+    date_start: '2022-11-01'
 
   - area: MS Data Science
     institution: University of Padova
@@ -79,7 +81,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Mathematicsl modelling
+      - name: Mathematical modelling
         description: ''
         percent: 85
         icon: cloud
@@ -106,6 +108,5 @@ awards:
 ---
 
 Hi everyone!
-I'm an applied math PhD student at Gran Sasso Science Institute in L'Aquila, Italy. My main interest is in numerical methods for machine and deep learning.
-I’m currently working on Dynamical low-rank approaches to train neural networks.
+I'm an applied math PhD student at Gran Sasso Science Institute in L'Aquila, Italy. My main interests are: large scale numerical optimization methods for deep learning, implicit biases of optimization, and feature learning mechanisms in deep networks.
 You can reach me at emanuele.zangrando@gssi.it
