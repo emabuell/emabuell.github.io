@@ -33,10 +33,11 @@ abstract: The effective deployment of smart service systems within homes, worksp
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Adversarial deep-learning, speech-recognition systems
+  - Adversarial deep-learning
+  - speech-recognition systems
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Standard identifiers for auto-linking
 # hugoblox:

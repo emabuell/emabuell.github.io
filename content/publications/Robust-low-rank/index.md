@@ -35,7 +35,9 @@ abstract: With the growth of model and data sizes, a broad effort has been made 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Low-rank, Adversarial attacks, non-linear condition number
+  - Low-rank 
+  - Adversarial attacks 
+  - non-linear condition number
 
 # Display this page in the Featured widget?
 featured: false

@@ -43,9 +43,11 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0009-3420-040X
 
 interests:
-  - Riemannian optimization
-  - Deep-learning
-  - 
+  - Optimization for deep-learning
+  - Feature learning
+  - loss landscape properties in high dimension
+  - geometry of neuromanifolds
+  - Calculus of variations
 
 education:
   - area: PhD candidate in Mathematics
@@ -68,24 +70,6 @@ education:
     date_start: '2016-10-01'
     date_end: '2020-10-01'
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Mathematical modelling
-        description: ''
-        percent: 85
-        icon: cloud
-
 languages:
   - name: English
     percent: 100
@@ -96,14 +80,14 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Title
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Award summary
+#awards:
+ # - title: Title
+  #  url: https://neurips.cc/
+   # date: '2022-12-01'
+   # awarder: NeurIPS
+   # icon: hero/trophy
+   # summary: |
+   #   Award summary
 
 ---
 

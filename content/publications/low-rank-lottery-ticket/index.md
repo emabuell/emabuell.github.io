@@ -35,7 +35,9 @@ abstract: Neural networks have achieved tremendous success in a large variety of
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Low-rank, Riemannian gradient flow, compression
+  - Low-rank 
+  - Riemannian gradient flow 
+  - compression
 
 # Display this page in the Featured widget?
 featured: true

@@ -34,7 +34,10 @@ abstract: Low-rank adaptation methods are a popular approach for parameter-effic
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Low-rank, Bilevel-optimization, Fine-tuning, LoRA
+  - Low-rank
+  - Bilevel-optimization
+  - Fine-tuning 
+  - LoRA
 
 # Display this page in the Featured widget?
 featured: true
@@ -62,7 +65,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 

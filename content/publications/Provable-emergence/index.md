@@ -35,7 +35,10 @@ abstract: Recent work in deep learning has shown strong empirical and theoretica
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Low-rank bias, Deep neural collapse, low-dimensional representations, feature learning
+  - Low-rank bias 
+  - Deep neural collapse 
+  - low-dimensional representations 
+  - feature learning
 
 # Display this page in the Featured widget?
 featured: true
