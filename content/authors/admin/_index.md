@@ -43,10 +43,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0009-3420-040X
 
 interests:
-  - Optimization for deep-learning
-  - Feature learning
-  - loss landscape properties in high dimension
-  - geometry of neuromanifolds
+  - Optimization for Deep-Learning
+  - Feature learning and geometry of representation spaces (Neuromanifolds)
+  - High dimensional loss landscapes
   - Calculus of variations
 
 education:
