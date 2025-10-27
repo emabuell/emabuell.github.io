@@ -33,8 +33,8 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
-        My main interest is in numerical methods for machine and deep learning. I’m currently working on Dynamical low-rank approaches to train neural networks.
+      #text: |-
+       # My main interest is in numerical methods for machine and deep learning. I’m currently working on Dynamical low-rank approaches to train neural networks.
     design:
       columns: '1'
   - block: collection
