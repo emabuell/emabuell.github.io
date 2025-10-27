@@ -27,7 +27,7 @@ publishDate: '2022-12-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: In *Neural Information Processing Systems*
 publication_short: In NeurIPS
 
 abstract: Neural networks have achieved tremendous success in a large variety of applications. However, their memory footprint and computational demand can render them impractical in application settings with limited hardware or energy resources. In this work, we propose a novel algorithm to find efficient low-rank subnetworks. Remarkably, these subnetworks are determined and adapted already during the training phase and the overall time and memory resources required by both training and evaluating them is significantly reduced. The main idea is to restrict the weight matrices to a low-rank manifold and to update the low-rank factors rather than the full matrix during training. To derive training updates that are restricted to the prescribed manifold, we employ techniques from dynamic model order reduction for matrix differential equations. Moreover, our method automatically and dynamically adapts the ranks during training to achieve a desired approximation accuracy.The efficiency of the proposed method is demonstrated through a variety of numerical experiments on fully-connected and convolutional networks.
@@ -35,29 +35,29 @@ abstract: Neural networks have achieved tremendous success in a large variety of
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Low-rank, Riemannian gradient flow, compression
 
 # Display this page in the Featured widget?
 featured: true
 
 # Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
+# hugoblox:
+  # ids:
+    # doi: 10.5555/123456
 
 # Custom links
 links:
   - type: pdf
     url: "https://proceedings.neurips.cc/paper_files/paper/2022/file/7e98b00eeafcdaeb0c5661fb9355be3a-Paper-Conference.pdf"
   - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder](https://github.com/COMPiLELab/DLRT-Net
+    url: https://github.com/COMPiLELab/DLRT-Net
   # - type: dataset
     # url: https://github.com/HugoBlox/hugo-blox-builder
   - type: slides
-    url: https://www.slideshare.net/](https://neurips.cc/media/neurips-2022/Slides/53825_SZbm58f.pdf
-  - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  #- type: video
+    url: https://neurips.cc/media/neurips-2022/Slides/53825_SZbm58f.pdf
+  # - type: source
+    # url: https://github.com/HugoBlox/hugo-blox-builder
+  # - type: video
    # url: https://youtube.com
 
 # Featured image
