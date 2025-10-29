@@ -33,8 +33,9 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      # text: |-
-       # I keep this page constantly updated with my most recent works
+      text: |-
+       The focus of my PhD project is the investigation of properties of low-rank neural networks and in effective memory-efficient ways to train or fine-tune them. Connected to this, I also recently gained interest in mechanisms of feature learning in deep networks, with a particular focus on the emergence of low-dimensional structures during training.
+       In this page I keep a collection of my most recent works together with some selected projects and Demos.
     design:
       columns: '1'
   - block: collection
